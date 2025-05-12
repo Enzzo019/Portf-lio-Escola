@@ -9,9 +9,11 @@
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(#6E859F);
+    background-color: black;
 }
 
 h1, h2, h5 {
+    color: #fc2b2b;
     color: var(#284260);
     font-weight: 700;
 }
@@ -27,4 +29,10 @@ a, .btn-link:hover {
 
 a:hover{
     color: var(#fc2b2b);
+}
+.lead {
+    color: #fc2b2b;
+}
+p {
+    color: aliceblue;
 }
